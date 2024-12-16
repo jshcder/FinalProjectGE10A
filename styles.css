@@ -74,12 +74,14 @@ header {
     margin-right: 120px;
     animation-name: grow;
     animation-duration: 1s;
+    border-radius: 10px;
 }
 #img2 {
     width: 530px;
     float: right;
     margin-top: -470px;
     margin-right: 90px;
+    border-radius: 10px;
 }
 
 #img4 {
@@ -89,6 +91,7 @@ header {
     margin-top: -550px;
     margin-right: 120px;
     animation: fadeIn 5s;
+    border-radius: 10px;
 }
 
 #img5 {
@@ -96,6 +99,7 @@ header {
     float: right;
     margin-top: -600px;
     margin-right: 90px;
+    border-radius: 10px;
 }
 
 #img6 {
@@ -105,6 +109,7 @@ header {
     margin-top: -250px;
     margin-right: 120px;
     animation: fadeIn 5s;
+    border-radius: 10px;
 }
 
 @keyframes fadeIn {
@@ -192,6 +197,7 @@ button:hover {
     cursor: pointer;
     margin: 10px;
     transition: 400ms;
+    border-radius: 10px;
 }
 #img3:hover {
     filter: grayscale(1);
