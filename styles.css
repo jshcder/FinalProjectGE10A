@@ -129,6 +129,7 @@ button {
     height: 45px;
     font-family: 'Poppins';
     font-weight: bold;
+    border-radius: 10px;
 }
 button:hover {
     transition-duration: 0.2s;
