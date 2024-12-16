@@ -171,6 +171,7 @@ button:hover {
     margin-bottom: -10px;
     text-align: center;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 #options {
     background-image: linear-gradient(to bottom, #423131, rgb(255, 255, 255));
@@ -183,6 +184,7 @@ button:hover {
     margin-left: -8px;
     margin-right: -8px;
 }
+
 #img3 {
     width: 330px;
     height: auto;
